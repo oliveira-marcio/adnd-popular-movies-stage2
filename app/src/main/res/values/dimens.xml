@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_size">42sp</dimen>
+    <dimen name="rating_icon_margin">8dp</dimen>
+    <dimen name="poster_grid_margin">1dp</dimen>
+    <dimen name="page_margin">32dp</dimen>
+    <dimen name="fab_size">60dp</dimen>
+    <dimen name="trailer_list_height">90dp</dimen>
+    <dimen name="trailer_margins">8dp</dimen>
+    <dimen name="review_list_height">300dp</dimen>
+    <dimen name="review_margin_top">4dp</dimen>
+</resources>

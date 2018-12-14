@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ordenações de filmes. Usado nos labels das abas do TabLayout. -->
+    <string-array name="category_labels">
+        <item>@string/category_popular_label</item>
+        <item>@string/category_top_ranked_label</item>
+        <item>@string/category_favorites_label</item>
+    </string-array>
+</resources>

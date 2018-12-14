@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Filmes Populares 2</string>
+    <string name="details_name">Detalhes do Filme</string>
+
+    <string name="content_authority">com.example.android.filmespopulares2</string>
+
+    <!-- Mensagens de erro a serem exibidas como EmptyView para a RecyclerView -->
+    <string name="no_movies">Nenhum filme encontrado.</string>
+    <string name="no_favorite_movies">Nenhum filme marcado como favorito.</string>
+
+    <!-- Mensagem de erro a ser exibida como Toast durante uma sincronia de dados com a Web -->
+    <string name="no_internet_connection">Não há conexão internet disponível para atualizar os dados dos filmes.</string>
+
+    <!-- Labels para as abas do TabLayout -->
+    <string name="category_popular_label">Populares</string>
+    <string name="category_top_ranked_label">Top</string>
+    <string name="category_favorites_label">Favoritos</string>
+
+    <!-- Mensagens para o Toast quando o status de favorito de um filme é modificado -->
+    <string name="favorite_added">Filme adicionado aos favoritos</string>
+    <string name="favorite_removed">Filme removido dos favoritos</string>
+
+    <!-- Labels para as seções dos extras de um filme -->
+    <string name="trailers_label">Trailers:</string>
+    <string name="reviews_label">Reviews:</string>
+
+    <!-- Botão de fechar da tela de diálogo com o review completo -->
+    <string name="review_dialog_button">Fechar</string>
+
+    <!-- Ratio padrão para os posters dos filmes -->
+    <string name="image_ratio" translatable="false">1.5</string>
+
+</resources>

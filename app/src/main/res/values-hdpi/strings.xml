@@ -1,0 +1,4 @@
+<resources>
+    <!-- largura de poster que pode ser solicitada na API do TheMovieDataBase -->
+    <string name="thumb_size" translatable="false">92</string>
+</resources>
